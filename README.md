@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/quiet_cod" target="blank"><img src="https://img.shields.io/twitter/follow/quiet_cod?logo=twitter&style=for-the-badge" alt="quiet_cod" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- <!--🌱 I’m currently learning **JavaScript** -->
 
 - 📝 I regularly write articles on [https://medium.com/@quietcod](https://medium.com/@quietcod)
 
