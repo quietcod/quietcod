@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Gupta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 
@@ -11,15 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@quietcod](https://medium.com/@quietcod)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Cyber Security**
 
 - 📫 How to reach me **gshubh270@gmail.com**
 
 - ⚡ Fun fact **I am lazy**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
