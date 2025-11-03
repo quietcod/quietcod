@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@quietcod](https://medium.com/@quietcod)
 
-- 💬 Ask me about **Python, Cyber Security**
+- 💬 Ask me about **Python, Cyber Security, Powershell**
 
 - 📫 How to reach me **gshubh270@gmail.com**
 
