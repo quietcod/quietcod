@@ -25,7 +25,7 @@ My long-term goal is to build and contribute to tools used by **security enginee
 
 ---
 
-### 🛠️ Skillset
+### 🧠 Skillset
 
 **Security & Tools**  
 Python · PowerShell · Bash · Linux · Windows SIEM basics  
