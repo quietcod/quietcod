@@ -48,12 +48,6 @@ Figma (wireframes only when required)
 
 ---
 
-### 🎓 Certification
-
-- **CEH — Certified Ethical Hacker (EC-Council)**
-
----
-
 ### 🚀 Currently Working On
 
 - Improving Python and PowerShell automation for security tasks  
@@ -61,14 +55,6 @@ Figma (wireframes only when required)
 - Expanding hands-on pentesting knowledge and applied CEH concepts  
 - Applying for roles in:  
   **Security Engineering · Automation · SOC · Pentesting · Python Scripting**
-
----
-
-### 📫 Contact  
-
-- 📧 Email: **gshubh270@gmail.com**  
-- 📝 Medium: **https://medium.com/@quietcod**  
-- 🐦 Twitter: **https://twitter.com/Quiet_cod**
 
 ---
 
