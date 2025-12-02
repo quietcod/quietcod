@@ -40,8 +40,8 @@ Git · GitHub · Terminal-based workflow
 **Frontend**  
 HTML · CSS · Minimal JavaScript  
 
-**Backend**
-Django
+**Backend / Systems Development**  
+Django · REST APIs · MySQL *(for tooling interfaces and backend automation when needed)*
 
 **Design (practical, not fancy)**  
 Figma (wireframes only when required)
