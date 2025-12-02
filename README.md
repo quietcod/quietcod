@@ -54,17 +54,6 @@ Figma (wireframes only when required)
 
 ---
 
-### 📈 GitHub Insights
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=quietcod&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quietcod&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🚀 Currently Working On
 
 - Improving Python and PowerShell automation for security tasks  
